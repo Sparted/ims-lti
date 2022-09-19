@@ -1,5 +1,5 @@
 {
-  "name": "@sparted/ims-lti",
+  "name": "ims-lti",
   "version": "3.0.2",
   "description": "Module for building an LTI Tool Provider and accept LTI launch requests",
   "author": {
